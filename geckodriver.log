@@ -1,0 +1,81 @@
+1661787305174	geckodriver	INFO	geckodriver 0.19.0
+1661787305180	geckodriver	INFO	Listening on 127.0.0.1:50294
+1661787308195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\kacky\\AppData\\Local\\Temp\\rust_mozprofile.suadIYEGLZs4"
+1661787377880	geckodriver	INFO	geckodriver 0.19.0
+1661787377886	geckodriver	INFO	Listening on 127.0.0.1:50335
+1661787380973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\kacky\\AppData\\Local\\Temp\\rust_mozprofile.mEPTO33UDoWG"
+1661787381466	Marionette	INFO	Marionette enabled
+1661787381471	Marionette	INFO	Listening on port 50343
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1661787400777	geckodriver	INFO	geckodriver 0.19.0
+1661787400785	geckodriver	INFO	Listening on 127.0.0.1:50352
+1661787403857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\kacky\\AppData\\Local\\Temp\\rust_mozprofile.ZxQ3Wplc0eWm"
+1661787404260	Marionette	INFO	Marionette enabled
+1661787404265	Marionette	INFO	Listening on port 50360
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1661787534311	geckodriver	INFO	geckodriver 0.19.0
+1661787534317	geckodriver	INFO	Listening on 127.0.0.1:50374
+1661787537383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\kacky\\AppData\\Local\\Temp\\rust_mozprofile.VKBLmgR0kQc4"
+1661787537767	Marionette	INFO	Marionette enabled
+1661787537771	Marionette	INFO	Listening on port 50382
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1661787836185	geckodriver	INFO	geckodriver 0.19.0
+1661787836191	geckodriver	INFO	Listening on 127.0.0.1:62766
+1661787839240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\kacky\\AppData\\Local\\Temp\\rust_mozprofile.LPzyJaSSiODE"
+1661787839617	Marionette	INFO	Marionette enabled
+1661787839621	Marionette	INFO	Listening on port 62774
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1661787918205	geckodriver	INFO	geckodriver 0.19.0
+1661787918210	geckodriver	INFO	Listening on 127.0.0.1:62790
+1661787921293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\kacky\\AppData\\Local\\Temp\\rust_mozprofile.q6XNfLBYbxjH"
+1661787921665	Marionette	INFO	Marionette enabled
+1661787921669	Marionette	INFO	Listening on port 62798
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1661787951732	geckodriver	INFO	geckodriver 0.19.0
+1661787951739	geckodriver	INFO	Listening on 127.0.0.1:62808
+1661787954904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\kacky\\AppData\\Local\\Temp\\rust_mozprofile.m0K0iq4LPeXt"
+1661787955270	Marionette	INFO	Marionette enabled
+1661787955274	Marionette	INFO	Listening on port 62816
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1661788128099	geckodriver	INFO	geckodriver 0.19.0
+1661788128106	geckodriver	INFO	Listening on 127.0.0.1:62904
+1661788131230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\kacky\\AppData\\Local\\Temp\\rust_mozprofile.Oxx4k2SzdH6o"
+1661788131597	Marionette	INFO	Marionette enabled
+1661788131601	Marionette	INFO	Listening on port 62912
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1661788515314	geckodriver	INFO	geckodriver 0.19.0
+1661788515319	geckodriver	INFO	Listening on 127.0.0.1:63109
+1661788518417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\kacky\\AppData\\Local\\Temp\\rust_mozprofile.4cqx4jwd7hPm"
+1661788518804	Marionette	INFO	Marionette enabled
+1661788518809	Marionette	INFO	Listening on port 63117
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1661788546318	geckodriver	INFO	geckodriver 0.19.0
+1661788546324	geckodriver	INFO	Listening on 127.0.0.1:63130
+1661788549423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\kacky\\AppData\\Local\\Temp\\rust_mozprofile.URcAv4NPsFYH"
+1661788549819	Marionette	INFO	Marionette enabled
+1661788549823	Marionette	INFO	Listening on port 63138
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1661788755063	geckodriver	INFO	geckodriver 0.19.0
+1661788755068	geckodriver	INFO	Listening on 127.0.0.1:63189
+1661788758133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\kacky\\AppData\\Local\\Temp\\rust_mozprofile.Wuqr3Wb6wJfr"
+1661788758517	Marionette	INFO	Marionette enabled
+1661788758521	Marionette	INFO	Listening on port 63197
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1661788886087	geckodriver	INFO	Listening on 127.0.0.1:63348
+1661788889160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\kacky\\AppData\\Local\\Temp\\rust_mozprofileL9yc7I"
+1661788889470	Marionette	INFO	Marionette enabled
+1661788889475	Marionette	INFO	Listening on port 63360
+Read port: 63360
+1661788889568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kacky\\AppData\\Local\\Temp\\rust_mozprofileL9yc7I\\search.json.mozlz4", (void 0)))
+1661788898878	Marionette	INFO	Stopped listening on port 63360
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1661788976543	geckodriver	INFO	Listening on 127.0.0.1:63406
+1661788979616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\kacky\\AppData\\Local\\Temp\\rust_mozprofileY31WCw"
+1661788979924	Marionette	INFO	Marionette enabled
+1661788979928	Marionette	INFO	Listening on port 63418
+Read port: 63418
+1661788980027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kacky\\AppData\\Local\\Temp\\rust_mozprofileY31WCw\\search.json.mozlz4", (void 0)))
+1661789171324	Marionette	INFO	Stopped listening on port 63418
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
